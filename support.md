@@ -2,7 +2,7 @@
 
 ¿Necesitas ayuda? Escríbenos:
 
-📧 **ale.dbf.a@gmail.com**
+📧 **bnnovainfo@gmail.com**
 
 Respondemos en menos de 48 horas hábiles.
 
