@@ -1,22 +1,32 @@
 # Términos y Condiciones de Uso — Bnnova Analysis
 
-**Última actualización:** 13 de mayo de 2026
+**Última actualización:** 3 de junio de 2026
 
-Lee estos Términos y Condiciones ("Términos") detenidamente antes de instalar y usar la aplicación móvil **Bnnova Analysis** ("la App"). Al descargar, instalar, acceder o utilizar la App, aceptas quedar legalmente vinculado por estos Términos. Si no estás de acuerdo, no instales ni utilices la App.
+Lee estos Términos y Condiciones ("Términos") detenidamente antes de instalar y usar la aplicación **Bnnova Analysis** ("la App"). Al descargar, instalar, acceder o utilizar la App, aceptas quedar legalmente vinculado por estos Términos. Si no estás de acuerdo, no instales ni utilices la App.
 
 ---
 
 ## 1. Sobre la App y el Titular
 
-Bnnova Analysis es una aplicación móvil para iOS desarrollada por **Diego Borbolla / Bnnova**, con domicilio en México ("el Desarrollador", "nosotros"). Contacto: **ale.dbf.a@gmail.com**.
+Bnnova Analysis es una aplicación desarrollada por **Diego Borbolla / Bnnova**, con domicilio en México ("el Desarrollador", "nosotros"). Contacto: **bnnovainfo@gmail.com**.
 
-La App permite a entrenadores y atletas analizar movimientos deportivos a partir de video y cámara, incluyendo herramientas de anotación, comparación, detección de pose y, en el plan Pro, análisis biomecánico 3D con retroalimentación automática.
+La App permite a entrenadores y atletas analizar movimientos deportivos a partir de video y cámara, registrar puntuaciones en dianas de tiro con arco, gestionar campos de entrenamiento, y sincronizar datos en la nube.
 
 ## 2. Licencia de uso
 
 Sujeto al cumplimiento de estos Términos y al pago de las suscripciones aplicables, te otorgamos una licencia **personal, limitada, no exclusiva, no transferible, no sublicenciable y revocable** para instalar y usar la App en dispositivos iOS que poseas o controles, exclusivamente para fines personales o profesionales propios.
 
-## 3. Restricciones
+## 3. Cuenta de usuario
+
+3.1 Para acceder a funciones de sincronización en la nube y campos de entrenamiento, necesitas crear una cuenta mediante **Sign in with Apple** o **Google Sign-In**.
+
+3.2 Eres responsable de mantener la seguridad de tu cuenta. No compartas tus credenciales de acceso.
+
+3.3 Puedes usar la App sin cuenta (funcionalidad local). La cuenta es necesaria únicamente para funciones en la nube.
+
+3.4 Puedes eliminar tu cuenta en cualquier momento desde Configuración > Eliminar cuenta. Esto borrará tus datos de la nube, pero tus datos locales permanecerán en tu dispositivo.
+
+## 4. Restricciones
 
 Te comprometes a no:
 
@@ -25,23 +35,106 @@ b) Copiar, modificar, distribuir, vender, alquilar, sublicenciar o crear obras d
 c) Eludir, deshabilitar o interferir con los controles de seguridad, gestión de suscripciones u otros mecanismos de la App.
 d) Usar la App para fines ilícitos, fraudulentos o que violen derechos de terceros.
 e) Analizar o grabar a personas sin su consentimiento donde la ley lo exija.
+f) Compartir contenido ofensivo, ilegal o inapropiado a través de los campos de entrenamiento.
 
-## 4. Suscripciones y compras dentro de la App
+## 5. Suscripciones y compras dentro de la App
 
-4.1 La App ofrece tres planes de suscripción mensual auto-renovables: **Essential, Plus y Pro**, con los precios y beneficios mostrados dentro de la App al momento de la compra.
+5.1 La App ofrece los siguientes niveles de acceso:
 
-4.2 El pago se efectúa a través de tu **cuenta de Apple ID**. Apple Inc. procesa todos los pagos y es responsable de la facturación.
+- **Gratis:** funciones básicas con límites de almacenamiento y herramientas. Sin acceso a la nube ni campos de entrenamiento.
+- **Atleta:** uso ilimitado de herramientas, 5 GB de almacenamiento en la nube, posibilidad de unirse a campos de entrenamiento.
+- **Coach:** todo lo de Atleta más 25 GB en la nube, creación de campos de entrenamiento (hasta 3 campos, 20 atletas por campo), análisis de videos de atletas, planes de entrenamiento y anuncios.
+- **Pro:** todo lo de Coach más 100 GB en la nube, campos y atletas ilimitados, soporte prioritario.
 
-4.3 La suscripción **se renueva automáticamente** al final de cada periodo, salvo que la canceles al menos 24 horas antes del final del periodo en curso. Puedes gestionar y cancelar tus suscripciones en cualquier momento desde **Ajustes > [tu nombre] > Suscripciones** en tu dispositivo iOS.
+Los precios, beneficios y límites de cada plan se muestran dentro de la App al momento de la compra.
 
-4.4 **No se otorgan reembolsos** por porciones no utilizadas de un periodo de suscripción ya cobrado, salvo cuando la ley aplicable lo exija o Apple lo conceda discrecionalmente conforme a sus políticas.
+5.2 El pago se efectúa a través de tu **cuenta de Apple ID**. Apple Inc. procesa todos los pagos.
 
-4.5 Reservamos el derecho de modificar precios, características de cada plan, o suspender productos. Los cambios de precio se notificarán conforme a las políticas de Apple y la legislación aplicable.
+5.3 Las suscripciones están disponibles en modalidad **mensual** y **anual**. La suscripción **se renueva automáticamente** al final de cada periodo, salvo que la canceles al menos 24 horas antes del final del periodo en curso. Puedes gestionar y cancelar tus suscripciones desde **Ajustes > [tu nombre] > Suscripciones** en tu dispositivo.
 
-## 5. AVISO IMPORTANTE — Naturaleza informativa y no médica
+5.4 **No se otorgan reembolsos** por porciones no utilizadas de un periodo ya cobrado, salvo cuando la ley aplicable lo exija o Apple lo conceda conforme a sus políticas.
+
+5.5 Reservamos el derecho de modificar precios, características de cada plan, o suspender productos. Los cambios de precio se notificarán conforme a las políticas de Apple.
+
+## 6. Campos de entrenamiento
+
+6.1 Los usuarios con plan Coach o Pro pueden crear campos de entrenamiento e invitar atletas mediante un código único.
+
+6.2 Como **entrenador**, podrás ver y analizar los videos y anotaciones que tus atletas hayan sincronizado en la nube. Eres responsable de usar esta información de manera ética y profesional.
+
+6.3 Como **atleta**, al unirte a un campo de entrenamiento, aceptas que el entrenador del campo tendrá acceso a tus videos y anotaciones sincronizados. Los demás atletas no tendrán acceso a tu información.
+
+6.4 Los entrenadores pueden publicar anuncios y planes de entrenamiento dentro de sus campos. El contenido de estos anuncios y planes es responsabilidad exclusiva del entrenador.
+
+## 7. Almacenamiento en la nube
+
+7.1 Los datos sincronizados se almacenan en servidores de Google Firebase ubicados en Estados Unidos.
+
+7.2 Cada plan tiene un límite de almacenamiento en la nube. Si excedes tu límite, no podrás subir nuevos videos hasta que liberes espacio o mejores tu plan.
+
+7.3 Si cancelas tu suscripción, tus datos en la nube se conservarán por un período razonable. Después de un período prolongado de inactividad, nos reservamos el derecho de eliminar datos almacenados.
+
+## 8. AVISO IMPORTANTE — Naturaleza informativa y no médica
 
 **La App es una herramienta de análisis técnico y de entrenamiento. No constituye, sustituye ni equivale a:**
 
+- Consejo, diagnóstico o tratamiento médico, fisioterapéutico, nutricional o psicológico profesional.
+- Recomendación de un entrenador certificado o profesional del deporte.
+- Evaluación clínica de lesiones, capacidades físicas o riesgos de salud.
+
+Las métricas biomecánicas y cualquier información que la App muestre son **estimaciones algorítmicas** con limitaciones inherentes.
+
+**Antes de iniciar o modificar cualquier programa de entrenamiento, consulta a un profesional de la salud calificado.**
+
+## 9. Asunción de riesgos
+
+Al utilizar la App reconoces que:
+
+a) La actividad física conlleva riesgo inherente de lesión.
+b) Eres responsable de tu condición física, de las actividades que realices, y de tu seguridad.
+c) Eres responsable del cumplimiento de las leyes aplicables al grabar personas.
+d) Eres responsable de la veracidad de los datos que ingresas.
+
+## 10. EXCLUSIÓN DE GARANTÍAS
+
+LA APP SE PROPORCIONA **"TAL CUAL"** SIN GARANTÍAS DE NINGÚN TIPO. NO GARANTIZAMOS QUE LA APP FUNCIONE LIBRE DE ERRORES, SEA COMPATIBLE CON TODOS LOS DISPOSITIVOS, DETECTE MÉTRICAS CON PRECISIÓN ABSOLUTA, O ESTÉ DISPONIBLE DE FORMA CONTINUADA.
+
+## 11. LIMITACIÓN DE RESPONSABILIDAD
+
+EN LA MÁXIMA MEDIDA PERMITIDA POR LA LEY, NO SEREMOS RESPONSABLES POR DAÑOS INDIRECTOS, INCIDENTALES, ESPECIALES O CONSECUENTES. LA RESPONSABILIDAD TOTAL SE LIMITA AL MONTO PAGADO POR SUSCRIPCIONES DURANTE LOS TRES MESES ANTERIORES AL HECHO.
+
+## 12. Propiedad intelectual
+
+La App, su código, diseño, gráficos y nombre son propiedad del Desarrollador. El contenido que generes (videos, anotaciones, datos) te pertenece.
+
+## 13. Apple como tercero beneficiario
+
+Reconoces que estos Términos son entre tú y el Desarrollador, no con Apple Inc. Apple y sus subsidiarias son terceros beneficiarios de estos Términos.
+
+## 14. Privacidad
+
+El tratamiento de información se rige por nuestra **Política de Privacidad**, que forma parte integral de estos Términos.
+
+## 15. Cambios a los Términos
+
+Podemos modificar estos Términos en cualquier momento. El uso continuado de la App tras la publicación implica tu aceptación.
+
+## 16. Terminación
+
+Podemos suspender o terminar tu acceso si incumples estos Términos. Tú puedes terminar tu uso desinstalando la App y cancelando tu suscripción.
+
+## 17. Ley aplicable y jurisdicción
+
+Estos Términos se rigen por las leyes de los **Estados Unidos Mexicanos**. Para cualquier controversia, las partes se someten a la jurisdicción de los tribunales de la Ciudad de México.
+
+## 18. Contacto
+
+Para cualquier consulta:
+**bnnovainfo@gmail.com**
+
+---
+
+**Al pulsar "Aceptar" dentro de la App o al continuar utilizándola, declaras haber leído, comprendido y aceptado estos Términos y nuestra Política de Privacidad.**
 - Consejo, diagnóstico o tratamiento médico, fisioterapéutico, nutricional o psicológico profesional.
 - Recomendación de un entrenador certificado o profesional del deporte.
 - Evaluación clínica de lesiones, capacidades físicas o riesgos de salud.
