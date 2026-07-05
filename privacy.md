@@ -1,8 +1,8 @@
-# Política de Privacidad — Bnnova Analysis
+# Política de Privacidad — Bnnova 
 
 **Última actualización:** 3 de junio de 2026
 
-Esta Política de Privacidad describe cómo la aplicación **Bnnova Analysis** ("la App", "nosotros", "nuestro") recopila, usa y protege la información cuando utilizas la App. Al instalar o usar la App, aceptas esta política.
+Esta Política de Privacidad describe cómo la aplicación **Bnnova** ("la App", "nosotros", "nuestro") recopila, usa y protege la información cuando utilizas la App. Al instalar o usar la App, aceptas esta política.
 
 Responsable del tratamiento: **Bnnova / Diego Borbolla**, México.
 Contacto: bnnovainfo@gmail.com
