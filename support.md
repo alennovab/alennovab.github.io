@@ -1,4 +1,4 @@
-# Soporte — Bnnova Analysis
+# Soporte — Bnnova
 
 ¿Necesitas ayuda? Escríbenos:
 
@@ -10,7 +10,7 @@ Respondemos en menos de 48 horas hábiles.
 
 - **Problemas con suscripciones** → revisa Ajustes de iOS > tu nombre > Suscripciones
 - **Restaurar compras** → abre la app → menú del plan → "Restaurar compras"
-- **Permisos** → Ajustes de iOS > Privacidad > [Cámara / Fotos / Micrófono] > Bnnova Analysis
+- **Permisos** → Ajustes de iOS > Privacidad > [Cámara / Fotos / Micrófono] > Bnnova
 
 ## Documentos
 
