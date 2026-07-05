@@ -1,14 +1,14 @@
-# Términos y Condiciones de Uso — Bnnova Analysis
+# Términos y Condiciones de Uso — Bnnova
 
 **Última actualización:** 3 de junio de 2026
 
-Lee estos Términos y Condiciones ("Términos") detenidamente antes de instalar y usar la aplicación **Bnnova Analysis** ("la App"). Al descargar, instalar, acceder o utilizar la App, aceptas quedar legalmente vinculado por estos Términos. Si no estás de acuerdo, no instales ni utilices la App.
+Lee estos Términos y Condiciones ("Términos") detenidamente antes de instalar y usar la aplicación **Bnnova** ("la App"). Al descargar, instalar, acceder o utilizar la App, aceptas quedar legalmente vinculado por estos Términos. Si no estás de acuerdo, no instales ni utilices la App.
 
 ---
 
 ## 1. Sobre la App y el Titular
 
-Bnnova Analysis es una aplicación desarrollada por **Diego Borbolla / Bnnova**, con domicilio en México ("el Desarrollador", "nosotros"). Contacto: **bnnovainfo@gmail.com**.
+Bnnova es una aplicación desarrollada por **Diego Borbolla / Bnnova**, con domicilio en México ("el Desarrollador", "nosotros"). Contacto: **bnnovainfo@gmail.com**.
 
 La App permite a entrenadores y atletas analizar movimientos deportivos a partir de video y cámara, registrar puntuaciones en dianas de tiro con arco, gestionar campos de entrenamiento, y sincronizar datos en la nube.
 
