@@ -1,0 +1,220 @@
+<title>Eliminar cuenta — Bnnova Analysis</title>
+<style>
+  :root {
+    --bg: #FAFAFA;
+    --surface: #FFFFFF;
+    --text: #1A1A1A;
+    --text-secondary: #5A5A5A;
+    --accent: #FF6B00;
+    --accent-hover: #E55E00;
+    --border: #E0E0E0;
+    --danger: #D32F2F;
+    --danger-bg: #FFF3F3;
+    --info-bg: #FFF8F0;
+    --info-border: #FFD699;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #121212;
+      --surface: #1E1E1E;
+      --text: #E8E8E8;
+      --text-secondary: #A0A0A0;
+      --border: #333;
+      --danger-bg: #2A1515;
+      --info-bg: #2A2010;
+      --info-border: #664D1A;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #121212;
+    --surface: #1E1E1E;
+    --text: #E8E8E8;
+    --text-secondary: #A0A0A0;
+    --border: #333;
+    --danger-bg: #2A1515;
+    --info-bg: #2A2010;
+    --info-border: #664D1A;
+  }
+  :root[data-theme="light"] {
+    --bg: #FAFAFA;
+    --surface: #FFFFFF;
+    --text: #1A1A1A;
+    --text-secondary: #5A5A5A;
+    --border: #E0E0E0;
+    --danger-bg: #FFF3F3;
+    --info-bg: #FFF8F0;
+    --info-border: #FFD699;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+  }
+
+  .header {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 20px 0;
+    text-align: center;
+  }
+  .header h1 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+  }
+  .header h1 span { color: var(--accent); }
+
+  .container {
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 32px 20px 64px;
+  }
+
+  h2 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin: 32px 0 12px;
+    letter-spacing: -0.01em;
+  }
+  h2:first-of-type { margin-top: 0; }
+
+  p, li {
+    color: var(--text-secondary);
+    font-size: 0.95rem;
+    margin-bottom: 8px;
+  }
+
+  ul { padding-left: 20px; margin-bottom: 16px; }
+  li { margin-bottom: 6px; }
+
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 24px;
+    margin: 20px 0;
+  }
+
+  .info-card {
+    background: var(--info-bg);
+    border: 1px solid var(--info-border);
+    border-radius: 12px;
+    padding: 20px;
+    margin: 20px 0;
+  }
+  .info-card p { color: var(--text); margin: 0; }
+
+  .danger-card {
+    background: var(--danger-bg);
+    border: 1px solid var(--danger);
+    border-radius: 12px;
+    padding: 20px;
+    margin: 20px 0;
+  }
+  .danger-card p { color: var(--text); margin: 0; }
+
+  .steps {
+    counter-reset: step;
+    list-style: none;
+    padding: 0;
+  }
+  .steps li {
+    counter-increment: step;
+    padding: 12px 0 12px 48px;
+    position: relative;
+    color: var(--text);
+    border-bottom: 1px solid var(--border);
+  }
+  .steps li:last-child { border-bottom: none; }
+  .steps li::before {
+    content: counter(step);
+    position: absolute;
+    left: 0;
+    top: 12px;
+    width: 32px;
+    height: 32px;
+    background: var(--accent);
+    color: #fff;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 0.85rem;
+  }
+
+  .email-link {
+    display: inline-block;
+    background: var(--accent);
+    color: #fff;
+    text-decoration: none;
+    padding: 12px 28px;
+    border-radius: 10px;
+    font-weight: 600;
+    font-size: 0.95rem;
+    margin-top: 12px;
+    transition: background 0.2s;
+  }
+  .email-link:hover { background: var(--accent-hover); }
+
+  .footer {
+    text-align: center;
+    padding: 24px;
+    color: var(--text-secondary);
+    font-size: 0.8rem;
+    border-top: 1px solid var(--border);
+    margin-top: 48px;
+  }
+</style>
+
+<div class="header">
+  <h1><span>Bnnova</span> Analysis</h1>
+</div>
+
+<div class="container">
+  <h2>Eliminar tu cuenta</h2>
+  <p>Puedes eliminar tu cuenta y todos tus datos asociados en cualquier momento. A continuación te explicamos las dos formas de hacerlo.</p>
+
+  <h2>Opción 1: Desde la app</h2>
+  <div class="card">
+    <ol class="steps">
+      <li>Abre <strong>Bnnova Analysis</strong> en tu dispositivo</li>
+      <li>Ve a <strong>Configuración</strong> (ícono de engranaje)</li>
+      <li>Selecciona <strong>Cuenta</strong></li>
+      <li>Toca <strong>Eliminar mi cuenta</strong></li>
+      <li>Confirma la eliminación</li>
+    </ol>
+  </div>
+
+  <h2>Opción 2: Por correo electrónico</h2>
+  <p>Si no puedes acceder a la app, envíanos un correo con el asunto "Eliminar mi cuenta" e incluye el correo electrónico con el que te registraste.</p>
+  <a href="mailto:bnnovainfo@gmail.com?subject=Eliminar%20mi%20cuenta&body=Solicito%20la%20eliminación%20de%20mi%20cuenta%20asociada%20al%20correo:%20" class="email-link">Enviar solicitud por correo</a>
+
+  <h2>Datos que se eliminan</h2>
+  <div class="card">
+    <ul>
+      <li><strong>Cuenta de usuario</strong> — correo, nombre y perfil</li>
+      <li><strong>Proyectos y atletas</strong> — todos los registros creados</li>
+      <li><strong>Videos</strong> — videos almacenados en la nube</li>
+      <li><strong>Anotaciones de tiro</strong> — sesiones de puntaje y flechas</li>
+      <li><strong>Anotaciones de video</strong> — dibujos y análisis</li>
+      <li><strong>Datos de campos de entrenamiento</strong> — membresías y planes</li>
+    </ul>
+  </div>
+
+  <div class="info-card">
+    <p><strong>Plazo de eliminación:</strong> Los datos se eliminan en un máximo de 30 días después de la solicitud. Algunos datos anonimizados de uso pueden conservarse con fines analíticos.</p>
+  </div>
+
+  <div class="danger-card">
+    <p><strong>Advertencia:</strong> La eliminación de la cuenta es permanente e irreversible. No podrás recuperar tus datos una vez procesada la solicitud.</p>
+  </div>
+
+  <div class="footer">
+    &copy; 2026 Bnnova. Todos los derechos reservados.<br>
+    Contacto: bnnovainfo@gmail.com
+  </div>
+</div>
